@@ -1,4 +1,8 @@
 <p align="center">
+    <b>CometLLM</b> was replaced by <b>opik</b> - see https://github.com/comet-ml/opik
+</p>
+
+<p align="center">
     <img alt="cometLLM" src="https://github.com/comet-ml/comet-llm/raw/main/logo.svg">
 </p>
 <p align="center">
@@ -166,3 +170,7 @@ You can configure your Comet credentials and where you are logging data to:
 ## 📝 License
 
 Copyright (c) [Comet](https://www.comet.com/site/) 2023-present. `cometLLM` is free and open-source software licensed under the [MIT License](https://github.com/comet-ml/comet-llm/blob/master/LICENSE).
+
+<p align="center">
+    <b>CometLLM</b> was replaced by <b>opik</b> - see https://github.com/comet-ml/opik
+</p>
